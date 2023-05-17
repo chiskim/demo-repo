@@ -1,3 +1,3 @@
 # demo-repo
-Demo for Github itro video.
+Demo for Github intro video.
 Some description.
